@@ -5,5 +5,5 @@ Ids RC Car lets you control your modified RC Car using Arduino, ESP32, and LoRa.
 
 ### RC Car
 
-![Ids RC Car](/blob/main/assets/PCB_RC-Car-Client.png)
+![Ids RC Car](/main/assets/PCB_RC-Car-Client.png)
 
